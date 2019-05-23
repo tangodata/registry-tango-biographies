@@ -1,2 +1,2 @@
-# tejasvideoreviews
-Machines readable version of Tejastango reviews/critique of DVD instructionals
+# registry-tango-milongueros
+Bios of famous milongueros
