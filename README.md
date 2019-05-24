@@ -1,2 +1,4 @@
-# registry-tango-milongueros
-Bios of famous milongueros
+# registry-tango-biographies
+
+Bios of famous milongueros, professionals, hall of fame, honourees, achievers, newsmakers
+
